@@ -20,7 +20,7 @@ Features:
 ## 5 Questions
 1. What are the top 5 channel with the highest watch time descending?
 2. Which channel has the highest stream time to watch time conversion rate? (In other words, how many watch time generated per stream time in minutes)
-3. WFind the top 5 count of channels per language.
+3. Find the top 5 count of channels per language.
 4. What are the top 10 channels with the highest peak viewers and their gap in viewers to the previous channel?
 5. Find top 10 channels that gained the most followers in percentage with at least 1 million followers?
 
