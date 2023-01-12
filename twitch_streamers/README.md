@@ -35,3 +35,7 @@ Features:
 ![](results/Q4.png)
 5. These 10 streamers/channels gained the followers in percentage in 2019.
 ![](results/Q5.png)
+
+## Visualizations
+
+[Tableau Public](https://public.tableau.com/views/TwitchStreamers2019/Sheet4?:language=en-US&:display_count=n&:origin=viz_share_link)
