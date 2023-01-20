@@ -13,7 +13,7 @@ CREATE TABLE IF NOT EXISTS twitch_streamers (
     language VARCHAR(30)
 );
 -- SET CLIENT_ENCODING TO 'utf8';
--- load data
+-- import data
 \COPY twitch_streamers FROM 'PATH' DELIMITER ',' CSV HEADER;
 
 
