@@ -1,6 +1,6 @@
 # Mini SQL Projects
 
-This repo will host all of my mini SQL projects.
+This repo will host all the mini SQL projects I did in each individual folder.
 
 ## General steps I will follow for each mini project:
 1. Find a dataset and examine it's features and data types.
