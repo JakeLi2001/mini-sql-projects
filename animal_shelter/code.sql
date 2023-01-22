@@ -47,7 +47,7 @@ SET name = REPLACE(name, '*', '');
 
 
 
--- 1) What are the top 3 most common names for dog and cat? 
+-- 1) What are the top 3 most common names for dog and cat per sex? 
 SELECT T.animal_type, T.name, T.count
 FROM (SELECT animal_type, name, COUNT(name), ROW_NUMBER() OVER (PARTITION BY animal_type ORDER BY COUNT(name) DESC) AS name_rank
 	  FROM animal_intake
