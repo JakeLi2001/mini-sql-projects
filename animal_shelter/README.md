@@ -18,13 +18,20 @@ This dataset is from Kaggle. It contains 3 CSVs:
 ## Answers
 1. 
 ![](results/Q1.png)
+
 2. The top 3 most common breeds for stray intakes are Domestic Shorthair Mix, Pit Bull Mix, and Domestic Shorthair.
 ![](results/Q2.png)
+
 3. 
+
 ![](results/Q3.png)
+
 4. Seems like the animal shelter receives the most intakes between May to July.
+
 ![](results/Q4.png)
+
 5. The average time between intake and adoption is 32 days.
+
 ![](results/Q5.png)
 
 ## Visualizations
