@@ -8,18 +8,23 @@ This dataset is from Kaggle. It contains 3 CSVs:
 3. Austin_Animal_Center_Stray_Map.csv: Map data that shows all stray cats/dogs that are currently listed in AAC's database for no longer than a week.
 
 ## 5 Questions
-1. What are the top 3 most common names for dog and cat? 
+1. What are the top 3 most common names for dogs and cats per sex? 
 2. What are the 3 most common breeds for stray intakes?
-3. What are the top 2 common outcome (adoption, transfer, etc.) for each animal type?
+3. What are the top 2 common outcomes (adoption, transfer, etc.) for each animal type?
 4. Top 10 year and month that has the most intakes.
 5. What is the average time between intake and adoption?
 6. (Extra) Use Tableau to create a map to visualize the locations where the stray animals are found.
 
 ## Answers
 1. 
-2. 
+![](results/Q1.png)
+2. The top 3 most common breeds for stray intakes are Domestic Shorthair Mix, Pit Bull Mix, and Domestic Shorthair.
+![](results/Q2.png)
 3. 
-4. 
-5. 
+![](results/Q3.png)
+4. Seems like the animal shelter receives the most intakes between May to July.
+![](results/Q4.png)
+5. The average time between intake and adoption is 32 days.
+![](results/Q5.png)
 
 ## Visualizations
