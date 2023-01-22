@@ -20,6 +20,7 @@ This dataset is from Kaggle. It contains 3 CSVs:
 ![](results/Q1.png)
 
 2. The top 3 most common breeds for stray intakes are Domestic Shorthair Mix, Pit Bull Mix, and Domestic Shorthair.
+
 ![](results/Q2.png)
 
 3. 
