@@ -8,11 +8,11 @@ This dataset is from Kaggle. It contains 3 CSVs:
 3. Austin_Animal_Center_Stray_Map.csv: Map data that shows all stray cats/dogs that are currently listed in AAC's database for no longer than a week.
 
 ## 5 Questions
-1. What is the most common name for dog and cat? 
-2. What is the most common breed for stray intakes?
-3. What is the most common outcome (adoption, transfer, etc.) for each breed?
-4. What is the average time between intake and adoption for each breed?
-5. What month has the most intakes?
+1. What are the top 3 most common names for dog and cat? 
+2. What are the 3 most common breeds for stray intakes?
+3. What are the top 2 common outcome (adoption, transfer, etc.) for each animal type?
+4. Top 10 year and month that has the most intakes.
+5. What is the average time between intake and adoption?
 6. (Extra) Use Tableau to create a map to visualize the locations where the stray animals are found.
 
 ## Answers
