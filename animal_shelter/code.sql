@@ -54,7 +54,7 @@ FROM (SELECT animal_type, sex_upon_intake, name, COUNT(name), ROW_NUMBER() OVER 
 	  WHERE animal_type = 'Cat' OR animal_type = 'Dog'
 	  GROUP BY animal_type, name, sex_upon_intake) AS T
 where name_rank <= 3 AND count >= 5
-ORDER BY animal_type, sex_upon_intake, count;
+ORDER BY animal_type, sex_upon_intake, count DESC;
 
 -- 2) What are the 3 most common breeds for stray intakes?
 SELECT breed, COUNT(*)
