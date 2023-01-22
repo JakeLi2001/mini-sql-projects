@@ -18,11 +18,11 @@ Features:
 - Language
 
 ## 5 Questions
-1. What are the top 5 channel with the highest watch time descending?
-2. Which channel has the highest stream time to watch time conversion rate? (In other words, how many watch time generated per stream time in minutes)
-3. Find the top 5 count of channels per language.
+1. What are the top 5 channels with the highest watch time descending?
+2. Which channel has the highest stream time to watch time conversion rate? (In other words, how many watch time are generated per stream time in minutes)
+3. Find the top 5 counts of channels per language.
 4. What are the top 10 channels with the highest peak viewers and their gap in viewers to the previous channel?
-5. Find top 10 channels that gained the most followers in percentage with at least 1 million followers?
+5. Find the top 10 channels that gained the most followers in percentage with at least 1 million followers?
 
 ## Answers
 1. xQcOW, summit1g, Gaules, ESL_CSGO, and Tfue have the highest watch time (minutes) in 2019.
@@ -31,9 +31,9 @@ Features:
 ![](results/Q2.png)
 3. English, Korean, Russian, Spanish, and French are the most common languages by the top 1000 streamers/channels.
 ![](results/Q3.png)
-4. Riot Games has the most peak viewers in 2019, I believe the League of Legends world championship attracted a lot of viewers.
+4. Riot Games has the most peak viewers in 2019, and I believe it's due to the League of Legends world championship.
 ![](results/Q4.png)
-5. These 10 streamers/channels gained the followers in percentage in 2019.
+5. These 10 streamers/channels gained the most followers in percentage in 2019.
 ![](results/Q5.png)
 
 ## Visualizations
