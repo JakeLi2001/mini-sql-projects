@@ -1,5 +1,5 @@
 # Animal Shelter (Austin, Texas)
-
+![](assets/cover.jpg)
 ## Data Source: [Animal Shelter Analytics](https://www.kaggle.com/datasets/jackdaoud/animal-shelter-analytics?select=Austin_Animal_Center_Intakes.csv) (10/01/2013 - 03/03/2021)
 
 This dataset is from Kaggle. It contains 3 CSVs:
