@@ -27,7 +27,7 @@ This dataset is from Kaggle. It contains 3 CSVs:
 
 ![](results/Q3.png)
 
-4. Seems like the animal shelter receives the most intakes between May to July.
+4. Seems like the animal shelter receives the most intakes in May or June.
 
 ![](results/Q4.png)
 
