@@ -5,7 +5,7 @@
 This dataset is from Kaggle. It contains 3 CSVs:
 1. Austin_Animal_Center_Intakes.csv: The status of animals as they arrive at the Animal Center.
 2. Austin_Animal_Center_Outcomes.csv: The status of animals as they leave the Animal Center.
-3. Austin_Animal_Center_Stray_Map.csv: Map data that shows all stray cats/dogs that are currently listed in AAC's database for no longer than a week.
+3. Austin_Animal_Center_Stray_Map.csv: Map data that shows all stray cats/dogs that are currently listed in AAC's database for no longer than a week. (Not going to use this becuase it only has 16 rows)
 
 ## 5 Questions
 1. What are the top 3 most common names for dogs and cats per sex? 
@@ -13,7 +13,6 @@ This dataset is from Kaggle. It contains 3 CSVs:
 3. What are the top 2 common outcomes (adoption, transfer, etc.) for each animal type?
 4. Top 10 year and month that has the most intakes.
 5. What is the average time between intake and adoption?
-6. (Extra) Use Tableau to create a map to visualize the locations where the stray animals are found.
 
 ## Answers
 1. 
